@@ -1,4 +1,3 @@
 fastapi[all]
 requests
-python-dotenv
 pydantic==1.*
